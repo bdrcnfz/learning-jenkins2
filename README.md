@@ -1,13 +1,7 @@
-Jenkins学习笔记
-===========
+# Jenkins2 学习笔记
 
-> 注: 如果你看到的是github的源代码, 请点击 [这里](http://skyao.github.io/leaning-jenkins/) 查看html内容.
+Jenkins2 学习笔记.
 
-# 介绍
+笔记发布于 gitbook，请点击下面的链接阅读:
 
-Jenkins学习笔记
-
-# 章节内容
-
-* [介绍](introduction/index.md)
-    * [资料收集整理](introduction/information.md)
+https://skyao.gitbooks.io/leaning-jenkins2/
