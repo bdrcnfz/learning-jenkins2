@@ -1,8 +1,8 @@
 {
   "gitbook": ">=3.2.0",
-  "description": "Jenkins2 学习笔记",
+  "description": "Jenkins2学习笔记",
   "language": "zh-hans",
-  "author": "Sky Ao <aoxiaojian@gmail.cn>",
+  "author": "Sky Ao <aoxiaojian@gmail.com>",
   "extension": null,
   "generator": "site",
   "links" : {
@@ -14,15 +14,17 @@
         "readme" : "README_gitbook.md"
     },
   "plugins": [
-    "toggle-chapters",
-    "edit-link", 
-    "etoc",
-    "back-to-top-button",
-    "tags"
+    "theme-comscore",
+    "splitter",
+    "-sharing",
+    "-search",
+    "edit-link",
+    "wide-page",
+    "back-to-top-button"
   ],
   "pluginsConfig": {
     "edit-link": {
-        "base": "https://github.com/skyao/leaning-jenkins2/edit/master",
+        "base": "https://github.com/skyao/learning-jenkins2/edit/master",
         "label": "Edit"
     }
   },
